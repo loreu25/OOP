@@ -1,0 +1,15 @@
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\bin\Debug\net5.0\test.exe
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\bin\Debug\net5.0\test.deps.json
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\bin\Debug\net5.0\test.runtimeconfig.json
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\bin\Debug\net5.0\test.dll
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\bin\Debug\net5.0\test.pdb
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\obj\Debug\net5.0\test.dll
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\obj\Debug\net5.0\refint\test.dll
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\obj\Debug\net5.0\test.pdb
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\obj\Debug\net5.0\test.genruntimeconfig.cache
+c:\Users\Никита\Desktop\Лабы\3 семестр\ООП\test\test\obj\Debug\net5.0\ref\test.dll
